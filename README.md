@@ -19,7 +19,6 @@ python app.py
 ```
 weather_diary/
  app.py               # основной код
- tests.py             # тесты
  weather_data.json    # данные (создаётся автоматически)
  .gitignore
  README.md
