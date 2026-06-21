@@ -43,12 +43,6 @@ weather_diary/
 **Сброс фильтра:**
 Нажать «Сброс» — вернётся полный список.
 
-## Запуск тестов
-
-```
-pip install pytest
-python -m pytest tests.py -v
-```
 
 ## Формат данных (weather_data.json)
 
